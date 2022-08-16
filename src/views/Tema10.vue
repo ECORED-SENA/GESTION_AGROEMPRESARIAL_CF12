@@ -71,7 +71,7 @@
       Separador
 
       #t_10_1.titulo-segundo.color-acento-contenido
-        h2 10.1 Características
+        h2 10.1 Clases de riesgo
 
       .row.justify-content-center.mb-5
         .col-lg-5.col-12
@@ -117,7 +117,7 @@
       Separador
 
       #t_10_2.titulo-segundo.color-acento-contenido
-        h2 10.2 Características
+        h2 10.2 Peligros 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
           .col-lg-7.col-8
@@ -163,17 +163,196 @@
       Separador
 
     #t_10_3.titulo-segundo.color-acento-contenido
-      h2 10.3 Características
+      h2 10.3 Medidas de protección
 
     p.mb-5 La identificación de los riesgos es un paso fundamental para establecer las medidas de protección y los planes de mejoramiento para los diversos procesos que se desarrollan en la empresa pecuaria. En este punto es importante analizar el ciclo PHVA (planear, hacer, verificar y actuar) ya que muchas de las recomendaciones que se dan para el ejercicio con seguridad de las funciones al interior de la unidad productiva se desprenden de este ejercicio. Para la definición de las medidas de protección frente a los peligros identificados en la unidad productiva es importante tener en cuenta la jerarquía de controles:
-
+    .row.justify-content-center.mb-0(data-aos="fade-left")
+        .col-lg-5.col-8       
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema10/img06.png")
+        .col-lg-7.col-12
+          AcordionA.mb-0(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
+            div(titulo="Eliminación")
+              p.mb-0 Realizar una modificación profunda para eliminar un peligro: por ejemplo, adquirir un montacargas para evitar el esfuerzo físico en el transporte de materias primas. 
+            div(titulo="Sustitución")
+              p.mb-0 Por ejemplo, sustituir las guadañadoras por desbrozadoras autopropulsadas para hacer control de arvenses. 
+            div(titulo="Controles de ingeniería")
+              p.mb-0 Consiste en realizar modificaciones en las instalaciones para reducir los peligros a los que se expone el personal. Por ejemplo, instalar ventiladores más potentes en el galpón para evitar golpes de calor. 
+            div(titulo="Controles administrativos")
+              p.mb-0 Son medidas que se toman desde la dirección de la empresa y se incorporan con la dinámica organizacional. Por ejemplo, jornadas de capacitación en operación de equipos. 
+            div(titulo="Elementos de protección personal EPP")
+              p.mb-0 Dotar a los trabajadores con elementos de protección para realizar las labores cotidianas, con lo que es posible prevenir accidentes.  
+            
     Separador
 
-    #t_10_4.titulo-segundo.color-acento-contenido
-      h2 10.4 Características
+    .fondo2
+      #t_10_4.titulo-segundo.color-acento-contenido
+        h2 10.4 Elementos de protección personal 
+      .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-lg-5.col-8       
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema10/img07.png")
+        .col-lg-7.col-12   
+          p.mb-4 <b style="color:#A3314F">De acuerdo con el Ministerio de Salud y Protección Social (2007):</b>      
+          p.mb-3 Se denomina así a cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin. Los EPP no evitan el accidente o el contacto con elementos agresivos, pero ayudan a que la lesión sea menos grave. 
+          .cajon.color-acento-contenido.p-4.mb-3
+            p.mb-0 En las labores cotidianas al interior de las unidades productivas agropecuarias, el personal está expuesto a múltiples riesgos los cuales pueden ser mitigados con el uso apropiado de los equipos de protección personal.
+          p.mb-0 A continuación, se presentan los equipos de protección personal comúnmente empleados en el sector productivo pecuario:
+    
+    
+    .fondo10.p-4.mb-5
+      SlyderA(tipo="b")
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 173px")
+                    img(style="width:166px" src="@/assets/curso/tema10/img08.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Casco con barbuquejo
+                  p.mb-0.text-center Casco de seguridad dieléctrico. tipo i y ii clase e, con ajuste de rachet, tafilete en nylon. 4 apoyos, incluye barbuquejo de 4 apoyos. no ventilado especial para trabajo en alturas. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 173px")
+                    img(style="width:298px" src="@/assets/curso/tema10/img09.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Gafas de seguridad
+                  p.mb-0.text-center Elaboradas en policarbonato, con filtro UV. Protegen contra impactos moderados. Ideales para la operación de maquinaria agrícola y la realización de labores manuales donde exista riesgo de partículas voladoras.
 
-    Separador
-  
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 184px")
+                    img(style="width:202px" src="@/assets/curso/tema10/img10.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Tapabocas desechable termosellado
+                  p.mb-0.text-center Buenas propiedades mecánicas y repelencia a los líquidos. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 184px")
+                    img(style="width:202px" src="@/assets/curso/tema10/img11.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Tapabocas Kn95
+                  p.mb-0.text-center Cómodo, plegable y ergonómico. 5 capas de filtración reforzada. Fibra de polipropileno termosellado. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 174px")
+                    img(style="width:158px" src="@/assets/curso/tema10/img12.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Tapabocas industrial con doble filtro
+                  p.mb-0.text-center  Especial para aplicación de sustancias desinfectantes y plaguicidas. Ajustable con filtros removibles al terminar su vida útil.  
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 174px")
+                    img(style="width:127px" src="@/assets/curso/tema10/img13.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Overol de seguridad ignífugo
+                  p.mb-0.text-center Resistencia garantizada contra la llama. Protección contra el calor convectivo y radiante. Cinta reflectante para mayor seguridad. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 174px")
+                    img(style="width:127px" src="@/assets/curso/tema10/img14.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Arnés de seguridad
+                  p.mb-0.text-center Equipo de protección para prevenir la caída del personal que labora en alturas. Obligatorio para trabajos como poda de árboles, reparaciones locativas y mantenimiento de infraestructura. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 174px")
+                    img(style="width:156px" src="@/assets/curso/tema10/img15.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Guantes tipo vaqueta
+                  p.mb-0.text-center Guante corto reforzado en palma para anticorte. Especial para trabajos en soldadura e industria. Manipulación de herramientas, equipos y cuerdas. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 176px")
+                    img(style="width:182px" src="@/assets/curso/tema10/img16.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Guantes de nitrilo
+                  p.mb-0.text-center Guantes de material sintético para labores delicadas. Protección frente a agentes externos. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 176px")
+                    img(style="width:216px" src="@/assets/curso/tema10/img17.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Botas de seguridad punteras
+                  p.mb-0.text-center Suela en poliuretano, cuello impermeable, puntera de seguridad. Dieléctrica. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 179px")
+                    img(style="width:184px" src="@/assets/curso/tema10/img18.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Protector auditivo
+                  p.mb-0.text-center Diadema acolchada. Diseñado para aislar los oídos del usuario de las fuentes de ruido. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 179px")
+                    img(style="width:140px" src="@/assets/curso/tema10/img19.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Careta para esmerilar
+                  p.mb-0.text-center Visor en policarbonato con suspensión escualizable de ajuste. Banda antisudor.
+                
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 174px")
+                    img(style="width:140px" src="@/assets/curso/tema10/img20.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Careta para guadañar
+                  p.mb-0.text-center Especial para la protección del trabajador frente a partículas sólidas voladoras. Casquete en polietileno liviano
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 174px")
+                    img(style="width:131px" src="@/assets/curso/tema10/img21.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Bota de caucho
+                  p.mb-0.text-center Especial para proteger del agua y el lodo. Liviana, flexible. Caña alta. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 174px")
+                    img(style="width:127px" src="@/assets/curso/tema10/img22.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Traje fitosanitario
+                  p.mb-0.text-center Ideal para aplicación de productos desinfectantes y plaguicidas. Material: tejido microporoso. 
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4
+                  div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 174px")
+                    img(style="width:142px" src="@/assets/curso/tema10/img23.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Guantes de caucho – látex
+                  p.mb-0.text-center Protección para la realización de diversas labores de aseo y desinfección de áreas. Manipulación de animales enfermos. 
+
+        .row.justify-content-center.px-0.py-3
+          .col-lg-11.col-12
+            .row.fondo11.justify-content-center.py-4
+              .col-lg-6.col-12.d-flex.px-lg-5.px-4
+                div.fondo12.w-100.p-4.mb-lg-0.mb-3
+                  div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 174px")
+                    img(style="width:127px" src="@/assets/curso/tema10/img24.png")
+                  h4.mb-4.text-center(style="color: #A3314F") Delantal industrial en PVC
+                  p.mb-0.text-center  Protección frente a la humedad. Liviano, fácil de llevar.               
+
+
+
+    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-right")
+        .row.justify-content-around.align-items-center
+          .col-lg-2.col-6.d-flex.justify-content-center
+            img.mb-lg-0.mb-3(style="width:88px" src="@/assets/curso/tema10/img25.png")
+          .col-10
+            .row.justify-content-center.align-items-center
+              .col-lg-9.col-12.d-flex.align-items-center
+                div
+                  h4.mb-lg-0.mb-3 Amplíe sus saberes sobre bioseguridad, observando con atención el video que aquí se propone
+              .col-lg-3.col-6.d-flex.justify-content-center
+                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  span(style="color:#12263F") Ver video
+                  i.fas.fa-play(style="color:#12263F")
 </template>
 
 <script>
