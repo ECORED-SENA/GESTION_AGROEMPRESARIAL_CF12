@@ -79,17 +79,93 @@
         .col-lg-7.col-8
           img.mb-0(src="@/assets/curso/tema10/img04.png")
 
-    
+      .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+        p.titulo <b>Tabla 11.</b> <i>Características del agua para consumo humano</i> 
 
-    Separador
+      .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-12
+          .tabla-b.color-acento-contenido            
+            table
+              tr
+                th.br(style="background-color: #a3314f;")
+                  h4.mb-0.text-center.text-white Tipo de control
+                th(style="background-color: #a3314f")
+                  h4.mb-0.text-center.text-white Tarifa
+                th(colspan=5 style="background-color: #a3314f")
+                  h4.mb-0.text-center.text-white Actividades
+              tr
+                td.text-center.br I
+                td.text-center.br 0,522 %
+                td.text-center Financieras, trabajos de oficina, administrativos, centros educativos, restaurantes. 
+              tr
+                td.text-center.br II
+                td.text-center.br 1,044 %
+                td.text-center Algunos procesos manufactureros como fabricación de tapetes, tejidos, confecciones. 
+              tr
+                td.text-center.br III
+                td.text-center.br 2,436 %
+                td.text-center Procesos manufactureros como la fabricación de agujas, alcoholes y artículos de cuero. 
+              tr
+                td.text-center.br IV
+                td.text-center.br 4,350 %
+                td.text-center Fabricación de aceites, cervezas, vidrios, procesos de galvanización y transportes. 
+              tr
+                td.text-center.br V
+                td.text-center.br 6,960 %
+                td.text-center Areneras, manejo de asbesto, bomberos, manejo de explosivos, construcción y explotación petrolera. 
+      p.mb-0 En relación con la clasificación de los riesgos, de acuerdo con la normatividad vigente se tiene que existen cinco (5) clases de riesgo, dependiendo de aspectos como las materias primas con las que se trabaja, los materiales, insumos que sean utilizados, medios de producción, procesos, almacenamiento y transporte. Este aspecto es importante pues la definición de la clase de riesgo indica la tarifa sobre la cual se hará la cotización a la Aseguradora de Riesgos Laborales (ARL).   
+      Separador
 
-    #t_10_2.titulo-segundo.color-acento-contenido
-      h2 10.2 Características
+      #t_10_2.titulo-segundo.color-acento-contenido
+        h2 10.2 Características
 
-    Separador
+      .row.justify-content-center.mb-5(data-aos="fade-left")
+          .col-lg-7.col-8
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema10/img05.png")
+          .col-lg-5.col-12
+            p.mb-0 De acuerdo con la Guía Técnica Colombiana (GTC) 45 del Instituto Colombiano de Normas Técnicas (Icontec) un peligro es una fuente, situación o acto con potencial de daño en términos de enfermedad o lesión a las personas o una combinación de estos. En este mismo documento se establecen algunas orientaciones sobre los tipos de peligros a los que los trabajadores están expuestos en sus actividades diarias. Si bien es una lista extensa, no se considera como definitiva, pues cada empresa está en capacidad de identificar sus propios riesgos potenciales. 
+
+      
+      .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+        p.titulo <b>Tabla 12.</b> <i>Ejemplos de peligros que pueden enfrentar los trabajadores</i> 
+
+      .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-12
+          .tabla-b.color-acento-contenido            
+            table
+              tr
+                th.br(style="width:300px !important ;background-color: #a3314f;")
+                  h4.mb-0.text-center.text-white Tipo de peligro              
+                th(colspan=2 style="background-color: #a3314f")
+                  h4.mb-0.text-center.text-white Descripción
+              tr
+                td.text-center.br Biológico
+                td.text-center Virus, bacterias, hongos, parásitos, mordeduras. 
+              tr
+                td.text-center.br Físico
+                td.text-center Ruido, iluminación, vibración, temperatura, presión atmosférica. 
+              tr
+                td.text-center.br Químico
+                td.text-center Polvos, fibras, líquidos, gases, vapores. 
+              tr
+                td.text-center.br Psicosocial
+                td.text-center Estilo de mando, pago, contratación, evaluación de desempeño. 
+              tr
+                td.text-center.br Biomecánico
+                td.text-center Posturas, esfuerzos, movimientos repetitivos, cargas. 
+              tr
+                td.text-center.br Condiciones de seguridad
+                td.text-center Máquinas, herramientas, materiales, eléctricos, superficies. 
+              tr
+                td.text-center.br Fenómenos naturales
+                td.text-center Terremoto, vendaval, inundación, derrumbe, sismo. 
+      p.mb-0 En los entornos rurales, los trabajadores agropecuarios se enfrentan a múltiples peligros por lo que es sumamente importante identificarlos y contrastarlos en una matriz de riesgos. De esta forma, se sentarán las bases para realizar una buena gestión de estas situaciones y construir soluciones que permitan desarrollar las actividades con total seguridad. 
+      Separador
 
     #t_10_3.titulo-segundo.color-acento-contenido
       h2 10.3 Características
+
+    p.mb-5 La identificación de los riesgos es un paso fundamental para establecer las medidas de protección y los planes de mejoramiento para los diversos procesos que se desarrollan en la empresa pecuaria. En este punto es importante analizar el ciclo PHVA (planear, hacer, verificar y actuar) ya que muchas de las recomendaciones que se dan para el ejercicio con seguridad de las funciones al interior de la unidad productiva se desprenden de este ejercicio. Para la definición de las medidas de protección frente a los peligros identificados en la unidad productiva es importante tener en cuenta la jerarquía de controles:
 
     Separador
 
