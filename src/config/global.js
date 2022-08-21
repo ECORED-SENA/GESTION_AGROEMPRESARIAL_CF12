@@ -293,132 +293,138 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Agri-Avi. (2018). Termonebulizador H600. Manual de instrucción. Agri-Avi.',
+      link: 'http://www.agriavi.com/pdf/Termo%20H600%20Manual%20Esp.pdf',
+    },
+    {
+      referencia:
+        'Caterpillar. (2007). Manual de operación y mantenimiento manipulador telescópico TH580B. Caterpillar.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://csapps.jlg.com/CAGDocuments/MenuDocuments/8C56BD70-FCC4-4391-AFE3-5CECD20379CCSPANISH_TH580B_31200322-C_OMM.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Fenavi. (2020). Manejo integrado de plagas en avicultura. Fenavi.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://fenavi.org/wp-content/uploads/2020/06/Cartilla_Manejo_Integrado_plagas_Mosca_Junio2020.pdf',
     },
     {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+      referencia: 'Ideam. (2010). Estimación de la demanda de agua. Ideam. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://documentacion.ideam.gov.co/openbiblio/bvirtual/021888/CAP5.pdf',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Instituto Colombiano Agropecuario - ICA. (2020). Resolución del ICA 365 de 2020. ICA.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Instituto Colombiano Agropecuario - ICA. (2017). Resolución del ICA 30292 de 2017. ICA.',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario - ICA. (2014). Resolución del ICA 3651 de 2014. ICA. ',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario - ICA. (2014). Resolución del ICA 3652 de 2014. ICA.',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2016). Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Guía técnica de implementación para Mipymes. Ministerio del Trabajo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.mintrabajo.gov.co/documents/20147/51963/Guia+tecnica+de+implementacion+del+SG+SST+para+Mipymes.pdf/e1acb62b-8a54-0da7-0f24-8f7e6169c178',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Organismo Internacional Regional de Sanidad Agropecuaria – Oirsa. (2013). Buenas prácticas de uso de medicamentos veterinarios y productos afines. Oirsa. ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Porkcolombia. (2013). La desinfección en el transporte, factor clave para el control de la diarrea epidémica porcina PEDv. Porkcolombia.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://porkcolombia.co/wp-content/uploads/2018/05/4.-Bolet%C3%ADn-PED-III-Desinfectantes.pdf',
+    },
+    {
+      referencia:
+        'Resolución 136 de 2020. [Ministerio de Agricultura y Desarrollo Rural]. Por la cual se adopta el Manual de condiciones de bienestar animal propias de cada una de las especies de producción en el sector agropecuario para las especies équidas, porcinas, ovinas y caprinas.  Junio 3 de 2020.',
+    },
+    {
+      referencia:
+        'Resolución 253 de 2020. [Ministerio de Agricultura y Desarrollo Rural]. Por la cual se adopta el Manual de condiciones de bienestar animal propias de cada una de las especies de producción en el sector agropecuario; bovina, bufalina, aves de corral y animales acuáticos. Octubre 29 de 2020.',
+      link:
+        'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
+    },
+    {
+      referencia:
+        'Resolución 2115 de 2007. [Ministerio de la Protección Social, Ministerio de Ambiente, Vivienda y  Desarrollo Territorial]. Por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano. Junio 22 de 2007. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resoluci%C3%B3n_2115_de_2007.pdf',
+    },
+    {
+      referencia:
+        'Swingtec GmbH. (2019). Manual de instrucciones. Swingtec GmbH. ',
+      link:
+        'https://www.swingtec.de/wp-content/uploads/2019/03/SN_spanisch.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Acondicionador de suelos',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Material de origen orgánico o inorgánico que tienen la propiedad de mejorar las propiedades físicas del suelo. ',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Biocontrolador',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Insecto que se alimenta de otros insectos, usualmente empleado para ejercer control de poblaciones de plagas en cultivos y unidades pecuarias. ',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Contaminante',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es toda sustancia introducida directa o indirectamente en la atmósfera por la actividad humana, cuya presencia puede tener efectos nocivos o que impliquen molestia grave o riesgo para la salud de las personas o el medio ambiente en su conjunto.',
     },
     {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Desasosiego',
+      significado: 'Intranquilidad, angustia.',
     },
     {
-      termino: 'Moda',
+      termino: 'Etológico',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Se refiere a todo lo concerniente al comportamiento animal. ',
     },
     {
-      termino: 'Diseña',
+      termino: 'Patógeno',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Cualquier organismo, bien sea virus, hongos o bacterias capaces de enfermar a otro ser vivo. ',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Viricida',
+      significado: 'Producto empleado para controlar virus. ',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Métodos de control',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Fenavi. (2020). Manejo integrado de plagas en avicultura. Fenavi.',
+      tipo: 'Cartilla web',
+      descarga:
+        '/downloads/Cartilla_Manejo_Integrado_plagas_Mosca_Junio2020.pdf',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Normativa de seguridad y salud en el trabajo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'FENAVI – FONAV. (2020). La hora de la sostenibilidad avícola - Normativa ambiental vigente en el sector avícola [video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=WNm9oJGcjtY',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Higienización',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Federación Nacional de Avicultores de Colombia. (s.f.). Guía rápida. Alternativas para el manejo de residuos sólidos ordinarios en granja. Fenavi. ',
+      tipo: 'Documento guía',
+      descarga: '/downloads/Guia_Rapida_Ambiental_Manejo_Residuos_Solidos.pdf',
     },
   ],
   creditos: {
@@ -442,36 +448,54 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Laura Ximena Hurtado Villalba ',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: '',
+        cargo: '',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura -Regional Santander',
+      },
+      {
+        nombre: '',
+        cargo: '',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura -Regional Santander',
       },
     ],
     gestoresRepositorio: [

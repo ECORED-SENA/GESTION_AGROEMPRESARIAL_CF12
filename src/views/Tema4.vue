@@ -80,7 +80,7 @@
                   h4.mb-1 Ficha técnica para productos pecuarios 
                   p.mb-lg-0.mb-3 Lo invitamos a consultar el siguiente recurso que muestra el ejemplo de la ficha técnica para productos pecuarios 
               .col-lg-3.col-6.d-flex.justify-content-center
-                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/ficha.pdf')" target="_blank")
                   span(style="color:#12263F") Descargar
                   i.fas.fa-file-download(style="color:#12263F")
 

@@ -42,7 +42,7 @@
             th.border-tabla(colspan=2 style="background-color: #a3314f;")
               h4.mb-0.text-center.text-white Presentación
           tr
-            td.text-center.border-tabla(colspan=2) <b>Movilización </b> 
+            td.text-center.border-tabla(colspan=2) <b>Jabones y detergentes </b> 
             td.text-center.br <b>1</b>          
             td.br(colspan=5) Jabón y detergente comercial.
             td(colspan=2) Sólida o líquida
@@ -108,7 +108,7 @@
             div(titulo="Ácidos")
               p.mb-0 Tienen diversidad de aplicaciones con una alta acción viricida, por lo que dependiendo del tipo de elemento y de la concentración pueden ser empleados incluso para la desinfección del personal y la ropa de una manera segura. 
             div(titulo="Aldehídos")
-              p.mb-0 Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2 %. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.  
+              p.mb-0 Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2%. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.  
     
     div.px-5.py-3(style="background-color:#e1e4a8")
       .row.justify-content-center
@@ -301,7 +301,7 @@
 
       p.mb-5 Algunos de los principios para el manejo eficaz de los planes de bioseguridad es la definición clara y concreta de los objetivos del plan y de las responsabilidades, tanto colectivas como individuales, del personal vinculado a la empresa pecuaria, lo cual es verificable a través del manejo adecuado de los registros y la sistematización de la información. 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Figura 7.</b> <i>Ejemplo de registro de limpieza y desinfección</i>      
+        p.titulo <b>Figura 8.</b> <i>Ejemplo de registro de limpieza y desinfección</i>      
       .row.justify-content-center.mb-5
         .col-lg-10.col-12
           img(src="@/assets/curso/tema6/img15.png")
@@ -321,7 +321,7 @@
     p.mb-5 Como todas las demás actividades que tienen lugar en la unidad productiva, es importante que se establezca un cronograma donde se especifique en qué momento tendrán lugar las labores relacionadas con la higienización de instalaciones y equipos, especificando, de ser posible, el lugar exacto en la que se llevará a cabo el proceso. 
   
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Figura 8.</b> <i>Ejemplo de registro de limpieza y desinfección</i>      
+        p.titulo <b>Figura 9.</b> <i>Ejemplo de registro de limpieza y desinfección</i>      
 
     div.px-lg-5.px-0
       img.mb-5(src="@/assets/curso/tema6/img19.svg")
@@ -340,32 +340,32 @@ export default {
   data: () => ({
     datosSlyder1: [
       {
-        titulo: 'Desinfección de reservorios de agua',
+        titulo: 'Desinfección de reservorios de agua:',
         texto:
           'En lugares donde sea necesario establecer reservorios de agua se recomienda hacerlo por lo menos cada 20 días con el fin de mantener la calidad del líquido y evitar la proliferación de enfermedades. ',
         imagen: require('@/assets/curso/tema6/img10.png'),
       },
       {
         titulo:
-          'Lavado de tanques y tuberías; desinfección de galpones, equipos e instalaciones',
+          'Lavado de tanques y tuberías; desinfección de galpones, equipos e instalaciones:',
         texto:
           'Se recomienda realizarlo cada vez que se cambie una parvada para evitar la propagación de enfermedades debido a los patógenos que pueden llegar a permanecer por largos periodos en el material de la cama. ',
         imagen: require('@/assets/curso/tema6/img11.png'),
       },
       {
-        titulo: 'Limpieza de comederos',
+        titulo: 'Limpieza de comederos:',
         texto:
           'De acuerdo con la disponibilidad de tiempo y recursos, en explotaciones avícolas se recomienda hacer este procedimiento de manera semanal. En el caso de los porcinos, bovinos o caprinos esta es una labor que se realiza de forma diaria.',
         imagen: require('@/assets/curso/tema6/img12.png'),
       },
       {
-        titulo: 'Limpieza de vehículos, calzado y trabajadores',
+        titulo: 'Limpieza de vehículos, calzado y trabajadores:',
         texto:
           'La desinfección de vehículos y trabajadores se realiza de manera diaria debido al riesgo constante que existe de que por este medio ingresen a la unidad productiva agentes patógenos que pueden afectar seriamente la unidad productiva. Igualmente, el lavado de manos y la desinfección de utensilios de uso personal son procedimientos que deben realizarse incluso varias veces al día. ',
         imagen: require('@/assets/curso/tema6/img13.png'),
       },
       {
-        titulo: 'Desinfección de corrales y equipos de ordeño',
+        titulo: 'Desinfección de corrales y equipos de ordeño:',
         texto:
           'Debido a que son equipos e instalaciones susceptibles a focos de contaminación y a que tienen relación con las materias primas, es recomendable establecer protocolos de limpieza y desinfección con una frecuencia diaria, una vez se culminen las labores.  ',
         imagen: require('@/assets/curso/tema6/img14.png'),

@@ -11,7 +11,7 @@
       p.mb-5 En las explotaciones pecuarias, como en cualquier actividad humana, el recurso hídrico es fundamental para el desarrollo de todo tipo de actividades, desde la limpieza y la desinfección de equipos e instalaciones hasta el consumo de los animales y el personal que labora al interior de la empresa. 
   
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Figura 9.</b> <i>Factores a considerar en la gestión del recurso hídrico </i>      
+        p.titulo <b>Figura 11.</b> <i>Factores a considerar en la gestión del recurso hídrico </i>      
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-8.col-12 
@@ -136,6 +136,8 @@
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-lg-8.col-12      
+          .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+            p.titulo <b>Tabla 10.</b> <i>Consumo de agua promedio de las principales especies pecuarias.</i> 
           .tabla-b.tabla2.color-acento-contenido.mb-5            
             table
               tr
@@ -154,20 +156,20 @@
                 td.b1.text-center   370 
               tr
                 td.b1 Pavos
-                td.b1.text-center650 
+                td.b1.text-center 650 
               tr
                 td.b1 Codornices
                 td.b1.text-center   58 
               tr
                 td.b1 Cerdas madres
                 td.b1.text-center   18
-                td.b2.text-center(rowspan=9) Litros / 100 animales
+                td.b2.text-center(rowspan=9) Litros/ día/ animal
               tr
                 td.b1 Cerdas reposición
-                td.b1.text-center18
+                td.b1.text-center 18
               tr
                 td.b1 Cerdos ceba
-                td.b1.text-center8
+                td.b1.text-center 8
               tr
                 td.b1 Cerdos levante
                 td.b1.text-center 5

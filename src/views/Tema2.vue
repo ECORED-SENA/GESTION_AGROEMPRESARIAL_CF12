@@ -139,6 +139,8 @@
 
       p.mb-0 Las prácticas para garantizar la bioseguridad en las explotaciones pecuarias difieren entre sistemas productivos, pero poseen elementos comunes como las distancias mínimas entre las diferentes áreas e instalaciones, la presencia de un cerco perimetral, poseer protocolos de limpieza y desinfección de instalaciones, la señalización de áreas de proceso, las áreas para el manejo de los residuos y los espacios para el almacenar insumos, herramientas y equipos. De acuerdo con la Resolución del ICA 3652 de 2014, los requisitos de bioseguridad e infraestructura avícola se basan en los siguientes aspectos:
 
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+      p.titulo <b>Tabla 3.</b> <i>Recomendaciones generales de bioseguridad en granjas avícolas </i>
     .tabla-b.color-acento-contenido.mb-3(data-aos="fade-right")                
       table(style="table-layout: fixed")
         colgroup

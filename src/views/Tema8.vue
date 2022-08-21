@@ -54,7 +54,9 @@
           p.mb-4 Para la construcción de los filtros sanitarios se pueden emplear desde equipos muy sencillos con un nivel muy bajo de tecnificación hasta sistemas complejos que emplean de forma simultánea dos o más mecanismos de limpieza y desinfección. En el caso de las explotaciones porcícolas, por ejemplo, la normatividad recomienda emplear duchas, lavamanos, vestier, elementos para secar las manos y sanitario. Sin embargo, algunos sistemas más sencillos solo emplean pediluvios, lavamanos o puntos de sanitización de manos. Entre los equipos que a menudo se utilizan en los filtros sanitarios están los siguientes:
           img.mb-lg-0.mb-3(src="@/assets/curso/tema8/img03.png")
         .col-lg-6.col-12    
-           SlyderC.mb-0(:datos="datosSlyder")
+          .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+            p.titulo <b>Figura 10.</b> <i>Elementos y equipos más empleados en filtros sanitarios. </i>      
+          SlyderC.mb-0(:datos="datosSlyder")
     
       Separador
 

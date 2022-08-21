@@ -80,7 +80,7 @@
           img.mb-0(src="@/assets/curso/tema10/img04.png")
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Tabla 11.</b> <i>Características del agua para consumo humano</i> 
+        p.titulo <b>Tabla 11.</b> <i>Clasificación de los riesgos laborales de acuerdo con las aseguradoras de riesgos laborales</i> 
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-12
@@ -348,7 +348,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-9.col-12.d-flex.align-items-center
                 div
-                  h4.mb-lg-0.mb-3 Amplíe sus saberes sobre bioseguridad, observando con atención el video que aquí se propone
+                  h4.mb-lg-0.mb-3 Amplíe sus saberes sobre bioseguridad, observando con atención el video que aquí se propone.
               .col-lg-3.col-6.d-flex.justify-content-center
                 a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                   span(style="color:#12263F") Ver video

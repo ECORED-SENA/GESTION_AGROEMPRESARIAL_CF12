@@ -38,7 +38,7 @@
                 div
                   h4.mb-lg-0.mb-3 Se recomienda ver el Manual de control de plagas en avicultura de Fenavi (2020)                   
               .col-lg-3.col-6.d-flex.justify-content-center
-                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/Cartilla_Manejo_Integrado_plagas_Mosca_Junio2020.pdf')" target="_blank")
                   span(style="color:#12263F") Descargar
                   i.fas.fa-file-download(style="color:#12263F")
 
@@ -70,7 +70,8 @@
           td.br.text-center <b>Control químico</b>
           td.br Utilización de compuestos de síntesis química para controlar los organismos plaga.
           td.br Alta efectividad.<br>Control eficiente en términos de tiempo.
-          td Alta efectividad.<br>Control eficiente en términos de tiempo.
+          td Contaminación del entorno.<br>Daños colaterales en organismos benéficos.
+
         tr
           td.br.text-center <b>Control físico</b>
           td.br Funcionan mediante la captura de los individuos o su eliminación al alterar las condiciones de su entorno. Trampas, riego por aspersión, destrucción de hábitats.
@@ -113,8 +114,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-lg-6.col-12                     
           .cajon.color-acento-contenido.p-4.mb-4            
-            p.mb-0 La efectividad de los agentes desinfectantes depende en gran medida de una correcta preparación, pues es necesario conocer las recomendaciones del fabricante en lo relacionado con las diluciones, tipos de mezclas y calidad del agua empleada. Generalmente, este tipo de sustancias son solubles en agua, lo cual facilita su empleo en cualquier unidad productiva. En términos generales, las recomendaciones que se deben tener en cuenta para realizar una buena preparación son las siguientes:
-          p.mb-lg-0.mb-3 Además de los anteriores, existen algunos otros ejemplos de agentes desinfectantes, con nombre comercial, los cuales se recomiendan para procesos de desinfección en todo tipo de predios.
+            p.mb-0 En el caso de los insectos, la implementación periódica de medidas de manejo es importante para romper los ciclos de vida y de esta forma reducir significativamente las poblaciones. Igualmente, en el caso de los roedores, la combinación de la utilización de cebos tóxicos con la destrucción de los hábitats propicios para su reproducción es una forma altamente eficiente de combatir el problema.
+          p.mb-lg-0.mb-3 Para el manejo químico de las infestaciones de plagas de insectos, es importante rotar los ingredientes activos, ya que si se usan frecuentemente los mismos compuestos químicos es posible que con el tiempo se genere resistencia.
         .col-lg-6.col-8  
           img.mb-0(src="@/assets/curso/tema7/img02.png")
 </template>

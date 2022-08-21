@@ -66,15 +66,15 @@
 
     .fondo6
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Figura 4.</b> <i>Advertencia de seguridad manual de operación termo-nebulizador</i>
+        p.titulo <b>Figura 5.</b> <i>Advertencia de seguridad manual de operación termo-nebulizador</i>
       .row.justify-content-center.mb-5
         .col-lg-10.col-12
           img(src="@/assets/curso/tema5/img17.png")
 
-      p.mb-5 Componentes del equipo: se presenta un diagrama en cual se describen las partes del equipo y su ubicación, lo cual es absolutamente necesario para proceder con la operación del aparato.  
+      p.mb-5 <b>Componentes del equipo</b>: se presenta un diagrama en cual se describen las partes del equipo y su ubicación, lo cual es absolutamente necesario para proceder con la operación del aparato.  
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        p.titulo <b>Figura 5.</b> <i>Esquema de componentes de un equipo termo-nebulizador</i>
+        p.titulo <b>Figura 6.</b> <i>Esquema de componentes de un equipo termo-nebulizador</i>
       .row.justify-content-center.mb-5
         .col-lg-10.col-12
           img(src="@/assets/curso/tema5/img18.png")
@@ -90,7 +90,7 @@
           img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img19.png")
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-        p.titulo <b>Figura 6.</b> <i>Ejemplo de esquema de sección de mantenimiento de equipos</i>
+        p.titulo <b>Figura 7.</b> <i>Ejemplo de esquema de sección de mantenimiento de equipos</i>
       .row.justify-content-center.mb-5
         .col-lg-10.col-12
           img(src="@/assets/curso/tema5/img20.png")
