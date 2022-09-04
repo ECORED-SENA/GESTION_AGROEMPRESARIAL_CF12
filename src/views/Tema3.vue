@@ -29,26 +29,26 @@
           
       .tema3.tarjetas1.mb-5(data-aos="fade-left")
         .row.justify-content-center.align-items-center        
-              .col-12.col-lg-4
+              .col-12.col-xl-4.col-sm-6
                 .TFcontainer.mb-3.p-0
                   img.TFimage(src='@/assets/curso/tema3/img04.png')
-                  .TFoverlay.p-4.pt-5
+                  .TFoverlay.p-3.pt-4
                     h4 1. Sistemas extensivos
                     p.mb-0 Cría de animales en grandes extensiones de tierra. Son sistemas con baja demanda de mano de obra, equipos e insumos. Se caracterizan por sus bajos costos de producción. Los tiempos para el sacrificio de los animales son mucho mayores que con los otros sistemas. Generalmente poseen una baja rentabilidad. En especies menores se denominan también sistemas de traspatio. 
-              .col-12.col-lg-4
+              .col-12.col-xl-4.col-sm-6
                 .TFcontainer.mb-3
                   img.TFimage(src='@/assets/curso/tema3/img05.png')
-                  .TFoverlay.p-4.pt-5
+                  .TFoverlay.p-3.pt-4
                     h4 2. Sistemas semintensivos
                     p.mb-0 Es uno de los más empleados en el mundo entero. Los animales son criados y alimentados en campo pero además reciben un refuerzo alimenticio o una suplementación. Utilizan una mayor cantidad de mano de obra y recursos que los sistemas extensivos. Por lo general se hace necesario el uso de instalaciones para el resguardo y manejo de los animales. 
-              .col-12.col-lg-4
+              .col-12.col-xl-4.col-sm-6
                 .TFcontainer.mb-3
                   img.TFimage(src='@/assets/curso/tema3/img06.png')
-                  .TFoverlay.p-4.pt-5
+                  .TFoverlay.p-3.pt-4
                     h4 3. Sistemas intensivos
                     p.mb-0 Son sistemas altamente dependientes de la tecnología y tienen una demanda considerable de recursos y mano de obra. Generalmente requieren de grandes inversiones para su instalación. Los niveles de rentabilidad en este tipo de explotaciones a menudo son  mayores. Se emplean las mayores densidades de animales por metro cuadrado posible, siempre respetando el bienestar animal. 
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-right")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema3/img07.png')})`}"
         )

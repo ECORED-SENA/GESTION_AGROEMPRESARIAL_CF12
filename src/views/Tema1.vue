@@ -69,7 +69,7 @@
             p.mb-0.text-center Nota. Con base en el Ministerio de Agricultura y Desarrollo Rural (2021).
               
 
-        .col-lg-5.col-8
+        .col-lg-5.col-8(data-aos="fade-right")
           img(src="@/assets/curso/tema1/img02.png")
 
       p.mb-5 Para entenderlo mejor se recomienda ver la siguiente figura.
@@ -117,63 +117,63 @@
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='7' aria-label='Slide 8')
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='8' aria-label='Slide 9')
             .carousel-inner(style="padding-left: 61px; padding-right: 61px")
-              .carousel-item.active.p-5          
+              .carousel-item.active.p-md-5.p-4          
                 p.t17.mb-4 1. Bovinos
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Adaptación a diversos pisos térmicos. Generan varios productos en una misma explotación, como la producción de carne y leche.                  
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img08.png")
-              .carousel-item.p-5          
+              .carousel-item.p-md-5.p-4    
                 p.t17.mb-4 2. Equinos
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Empleados en diversas tareas dentro de la unidad productiva.<br>También tienen uso recreativo.<br>Gran capacidad de adaptación.
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img09.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4       
                 p.t17.mb-4 3. Bufalos 
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Empleados en diversas tareas dentro de la unidad productiva.<br>También tienen uso recreativo.<br>Gran capacidad de adaptación.
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img10.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4        
                 p.t17.mb-4 4. Ovinos 
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Principalmente para la producción de carne y lana.<br>Se adaptan a diversos pisos térmicos. 
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img11.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4         
                 p.t17.mb-4 5. Caprinos 
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Utilizados para la producción de carne, principalmente. <br>Se adaptan a diversos pisos térmicos. <br>Gran fuente de proteína a bajo costo. 
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img12.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4        
                 p.t17.mb-4 6. Aves 
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Son los sistemas productivos más empleados en el mundo. <br>Tienen fácil adaptación a diversos pisos térmicos. <br>Producción de huevo y carne, fuente de proteína a bajo costo. 
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img13.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4           
                 p.t17.mb-4 7. Peces
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Gran capacidad de adaptación a diversos pisos térmicos. <br>Fuente de proteína de calidad. <br>Diversidad de sistemas productivos. 
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img14.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4          
                 p.t17.mb-4 8. Porcinos 
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 
                     p.mb-lg-0.mb-3 Adaptación a diversos pisos térmicos. <br>Desarrollo precoz. <br>Gran variedad de fuentes de alimentación para los animales.
                   .col-lg-4.col-8
                     img(src="@/assets/curso/tema1/img15.png")
-              .carousel-item.p-5          
+              .carousel-itemp-md-5.p-4     
                 p.t17.mb-4 9. Otras especies menores
                 .row.justify-content-center.h-100
                   .col-lg-8.col-12 

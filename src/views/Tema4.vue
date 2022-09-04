@@ -35,7 +35,7 @@
       .col-lg-5.col-8
         img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img02.png")
     
-    div.px-5.py-4(style="background-color:#e1e4a8")
+    div.px-md-5.px-3(style="background-color:#e1e4a8")
       p.mb-0 El manejo y utilización de estos insumos debe ser supervisado siempre, por lo que es necesario establecer protocolos para realizar estas labores e, igualmente, dejar trazabilidad cada vez que se haga uso de ellos. Por otro lado, es importante almacenar estos elementos de forma adecuada, debidamente rotulados y en las condiciones establecidas por el fabricante en la etiqueta y en la ficha técnica. La bodega donde se almacenen estos elementos debe estar bajo llave, debidamente ventilada y construida con materiales que faciliten su aseo y desinfección y además aseguren la estabilidad de los ingredientes activos. 
     Separador 
 
@@ -136,49 +136,49 @@
       SlyderF.mb-5(columnas="col-12 col-xl-4")
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img09.svg' alt='AvatarTop')
           h4.text-center 1. Encabezado
           p.text-center Se define nombre del protocolo, fecha de elaboración y responsables de elaboración, revisión y aprobación.  
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img10.svg' alt='AvatarTop')
           h4.text-center 2. Objeto
           p.text-center Se expresa cuál es el fin del protocolo, es decir, qué se pretende con su implementación. 
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img11.svg' alt='AvatarTop')
           h4.text-center 3. Alcance
           p.text-center Se delimita la escala de aplicación del protocolo: si aplica en un área de la empresa, en toda la empresa o un área geográfica definida.
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img12.svg' alt='AvatarTop')
           h4.text-center 4. Definiciones
           p.text-center Se incluye un glosario de términos para centrar al lector sobre el contenido del protocolo. 
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img13.svg' alt='AvatarTop')
           h4.text-center 5. Condiciones generales
           p.text-center Se expresan las disposiciones que se deben seguir para garantizar el cumplimiento del objeto del protocolo como lavado de manos, desinfección de superficies, uso de equipos de protección personal, entre otras. 
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img14.svg' alt='AvatarTop')
           h4.text-center 6. Contenido
           p.text-center Se definen uno a uno los procedimientos que se deben realizar para el cumplimiento de los objetivos del protocolo, expresando las actividades de manera secuencial y clara. 
 
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-5
               img(src='@/assets/curso/tema4/img15.svg' alt='AvatarTop')
           h4.text-center 7. Control de cambios
           p.text-center Se registran todos los ajustes que han sufrido el protocolo y los procedimientos. Se deja trazabilidad de estos cambios

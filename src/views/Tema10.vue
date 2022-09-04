@@ -22,7 +22,7 @@
           p.mb-4 En cuanto a la normativa relacionada con la seguridad y salud en el trabajo se tiene que desde la década de los 50 se vienen dando avances importantes en lo relacionado con la reivindicación de los derechos de los trabajadores y la búsqueda de relaciones más justas entre estos y sus patronos. Con la incorporación del Código Sustantivo del Trabajo se logró aportar a la consolidación de las relaciones entre trabajadores y empleadores dentro de un ambiente de coordinación económica y equilibrio social. 
           p.mb-0 A continuación, se presenta un recuento del marco normativo que acompaña los procesos de seguridad y salud en el trabajo. 
     
-      div.fondoblanco.px-3(style="background-color:white")
+      div.fondoblanco.px-3(style="background-color:white" data-aos="fade-left")
         div.d-flex.justify-content-center.p-0.position-relative
           img.p-0.m-0.position-relative(style="top:-6px; width: 507px" src="@/assets/curso/tema10/img03.png")
         .row.justify-content-center
@@ -73,16 +73,16 @@
       #t_10_1.titulo-segundo.color-acento-contenido
         h2 10.1 Clases de riesgo
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-5.col-12
           p.mb-lg-0.mb-3 Para hablar de seguridad y salud en el trabajo obligatoriamente se debe hablar de riesgos, pues estos son inherentes a toda actividad humana. De acuerdo con el Ministerio de Trabajo, un riesgo se define <b style="color:#A3314F">como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por estos</b>. Por otro lado, “la estimación del riesgo consiste en emitir un juicio sobre la tolerancia o no del riesgo estimado. En este orden de ideas, la seguridad y salud en el trabajo es el desarrollo de un proceso lógico y por etapas, basado en la mejora continua, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y salud en el trabajo” (Ministerio de trabajo 2016).
         .col-lg-7.col-8
           img.mb-0(src="@/assets/curso/tema10/img04.png")
 
-      .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+      .titulo-sexto.color-acento-contenido
         p.titulo <b>Tabla 11.</b> <i>Clasificación de los riesgos laborales de acuerdo con las aseguradoras de riesgos laborales</i> 
 
-      .row.justify-content-center.mb-5(data-aos="fade-right")
+      .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-12
           .tabla-b.color-acento-contenido            
             table
@@ -166,7 +166,7 @@
       h2 10.3 Medidas de protección
 
     p.mb-5 La identificación de los riesgos es un paso fundamental para establecer las medidas de protección y los planes de mejoramiento para los diversos procesos que se desarrollan en la empresa pecuaria. En este punto es importante analizar el ciclo PHVA (planear, hacer, verificar y actuar) ya que muchas de las recomendaciones que se dan para el ejercicio con seguridad de las funciones al interior de la unidad productiva se desprenden de este ejercicio. Para la definición de las medidas de protección frente a los peligros identificados en la unidad productiva es importante tener en cuenta la jerarquía de controles:
-    .row.justify-content-center.mb-0(data-aos="fade-left")
+    .row.justify-content-center.mb-0(data-aos="fade-right")
         .col-lg-5.col-8       
           img.mb-lg-0.mb-3(src="@/assets/curso/tema10/img06.png")
         .col-lg-7.col-12
@@ -187,7 +187,7 @@
     .fondo2
       #t_10_4.titulo-segundo.color-acento-contenido
         h2 10.4 Elementos de protección personal 
-      .row.justify-content-center.mb-5(data-aos="fade-right")
+      .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-lg-5.col-8       
           img.mb-lg-0.mb-3(src="@/assets/curso/tema10/img07.png")
         .col-lg-7.col-12   
@@ -199,9 +199,9 @@
     
     
     .fondo10.p-4.mb-5
-      SlyderA(tipo="b")
+      SlyderA(tipo="b" data-aos="fade-right")
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -217,7 +217,7 @@
                   p.mb-0.text-center Elaboradas en policarbonato, con filtro UV. Protegen contra impactos moderados. Ideales para la operación de maquinaria agrícola y la realización de labores manuales donde exista riesgo de partículas voladoras.
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -233,7 +233,7 @@
                   p.mb-0.text-center Cómodo, plegable y ergonómico. 5 capas de filtración reforzada. Fibra de polipropileno termosellado. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -249,7 +249,7 @@
                   p.mb-0.text-center Resistencia garantizada contra la llama. Protección contra el calor convectivo y radiante. Cinta reflectante para mayor seguridad. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -265,7 +265,7 @@
                   p.mb-0.text-center Guante corto reforzado en palma para anticorte. Especial para trabajos en soldadura e industria. Manipulación de herramientas, equipos y cuerdas. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -281,7 +281,7 @@
                   p.mb-0.text-center Suela en poliuretano, cuello impermeable, puntera de seguridad. Dieléctrica. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -297,7 +297,7 @@
                   p.mb-0.text-center Visor en policarbonato con suspensión escualizable de ajuste. Banda antisudor.
                 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -313,7 +313,7 @@
                   p.mb-0.text-center Especial para proteger del agua y el lodo. Liviana, flexible. Caña alta. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4.b1
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -329,7 +329,7 @@
                   p.mb-0.text-center Protección para la realización de diversas labores de aseo y desinfección de áreas. Manipulación de animales enfermos. 
 
         .row.justify-content-center.px-0.py-3
-          .col-lg-11.col-12
+          .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
               .col-lg-6.col-12.d-flex.px-lg-5.px-4
                 div.fondo12.w-100.p-4.mb-lg-0.mb-3
@@ -340,7 +340,7 @@
 
 
 
-    .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.p-3.mb-5.sombra(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-lg-2.col-6.d-flex.justify-content-center
             img.mb-lg-0.mb-3(style="width:88px" src="@/assets/curso/tema10/img25.png")

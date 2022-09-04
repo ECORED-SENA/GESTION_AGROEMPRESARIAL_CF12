@@ -103,7 +103,7 @@
           .col-lg-3.col-10
             img.mb-0(src="@/assets/curso/tema2/img06.png")
 
-      img.mb-5(src="@/assets/curso/tema2/img08.svg")
+      img.mb-5(src="@/assets/curso/tema2/img08.png")
       <br>
 
     Separador

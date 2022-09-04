@@ -7,6 +7,16 @@ figcaption
   background-color: #e8e8e8 !important
   font-weight: normal !important
 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  min-height: 50px !important
+  min-width: 50px !important
+
+@media (max-width: 576px)
+  .slyder-a__bullets__item
+     width: 10px !important
+     height: 10px !important
+     margin: 0 3px
+
 .titulo-sexto
   border-left: 5px solid
   padding: 8px 0 8px 15px;
@@ -81,6 +91,10 @@ figcaption
   box-shadow: 0px 2px 10px 5px rgba(0,0,0,0.3);
 
 .tema10
+  .sombra
+    -webkit-box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.5); 
+    box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.5);
+
   .slyder-a__bullets__item
     background-color: #A3314F 
     opacity: 0.35 !important
@@ -145,6 +159,12 @@ figcaption
   
 
 .tema9
+  .fila1
+    th, td
+      background-color: #E8E8E8 !important;
+  .fila2
+    th, td
+      background-color: #F2E9E9 !important;
   .fondo1
     position: relative
     padding-bottom: 1rem
@@ -183,10 +203,22 @@ figcaption
 
 .tema8
   .slyder-f
+    .horizontal-scroll__wrapper
+      padding-left: 10px
+      padding-right: 10px
+    .horizontal-scroll
+      align-items: stretch
+    .slyder-f__slyde
+      display: flex
+      padding-left: 10px
+      padding-right: 10px
+      padding-bottom: 12px !important
+      padding-top: 10px !important
+      
     .tarjeta.color-acento-botones
       background-color: #ebeec0 !important
-      -webkit-box-shadow: 4px 4px 14px 1px rgba(0,0,0,0.5); 
-      box-shadow: 4px 4px 14px 1px rgba(0,0,0,0.5);
+      -webkit-box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.3); 
+      box-shadow: 2px 2px 10px 1px rgba(0,0,0,0.3);
 
     p, h4
       color: $color-sistema-texto
@@ -366,12 +398,12 @@ figcaption
       position: absolute
       top: 0
       left: 2.5%
-      width: 134%
+      width: 120%
       height: 100%
       margin: 0 -5rem
       background-image: url("../assets/curso/tema1/fondo1.png")
       //background-color: red
-      background-size: contain
+      background-size: cover
       background-repeat: no-repeat
 
   .fondo2
@@ -539,12 +571,12 @@ figcaption
       overflow: hidden
       width: 96%
       margin-left: 2%       
-      height: 85px
+      height: 63px
       transition: .5s ease
       background-color: rgba(206, 211, 113, 0.94)
 
     .TFcontainer:hover .TFoverlay
-      height: 70%
+      height: 80%
 
     @media screen and (max-width: 991px)
       .TFcontainer:hover .TFoverlay

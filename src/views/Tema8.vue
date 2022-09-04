@@ -66,44 +66,50 @@
 
       p.mb-5 Un protocolo es un conjunto de medidas, instrucciones o procedimientos que orientan y controlan cómo se deben llevar a cabo determinadas actividades al interior de la unidad pecuaria. En el caso de la bioseguridad, estos protocolos permiten al personal organizar en un orden lógico las actividades que conllevarán a la mitigación de los riesgos asociados al ingreso de agentes patógenos. Dentro de los protocolos para la implementación de los filtros sanitarios se deben incluir disposiciones que eviten la entrada y dispersión de organismos potencialmente peligrosos.
         
-      SlyderF.mb-5(columnas="col-12 col-xl-4")
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img13.svg' alt='AvatarTop')
-          h4.text-center 1. Filtro sanitario de ingreso
-          p.text-center Definir la ubicación del filtro sanitario de ingreso a la unidad productiva.
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img14.svg' alt='AvatarTop')
-          h4.text-center 2. Filtros sanitarios internos
-          p.text-center Definir la ubicación y el número de filtros sanitarios internos para evitar la propagación de patógenos al interior de la unidad productiva.
+      SlyderF.mb-5(columnas="col-12 col-xl-4" data-aos="fade-left")
+       
+          .tarjeta.color-acento-botones.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img13.svg' alt='AvatarTop')
+            h4.text-center 1. Filtro sanitario de ingreso
+            p.text-center Definir la ubicación del filtro sanitario de ingreso a la unidad productiva.
+       
+          .tarjeta.color-acento-botones.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img14.svg' alt='AvatarTop')
+            h4.text-center 2. Filtros sanitarios internos
+            p.text-center Definir la ubicación y el número de filtros sanitarios internos para evitar la propagación de patógenos al interior de la unidad productiva.
 
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img15.svg' alt='AvatarTop')
-          h4.text-center 3. Plano general
-          p.text-center Establecer en un plano la ubicación de los filtros sanitarios dentro de la unidad productiva. 
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img16.svg' alt='AvatarTop')
-          h4.text-center 4. Equipos y sustancias desinfectantes
-          p.text-center Determinar el tipo de equipos que estarán en cada filtro y las sustancias desinfectantes que se utilizarán con su ficha técnica correspondiente. 
-        .tarjeta.color-acento-botones.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img17.svg' alt='AvatarTop')
-          h4.text-center 5. Protocolos de limpieza y desinfección 
-          p.text-center Establecer los procedimientos de limpieza y desinfección para el paso por cada uno de los filtros sanitarios de la unidad productiva. 
-        .tarjeta.color-acento-botones.p-4 
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema8/img18.svg' alt='AvatarTop')
-          h4.text-center 6.Responsables 
-          p.text-center Identificar los responsables de verificar el funcionamiento de los filtros sanitarios y del diligenciamiento de los registros de ingreso. 
+     
+          .tarjeta.color-acento-botones.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img15.svg' alt='AvatarTop')
+            h4.text-center 3. Plano general
+            p.text-center Establecer en un plano la ubicación de los filtros sanitarios dentro de la unidad productiva.
+        
+          .tarjeta.color-acento-botones.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img16.svg' alt='AvatarTop')
+            h4.text-center 4. Equipos y sustancias desinfectantes
+            p.text-center Determinar el tipo de equipos que estarán en cada filtro y las sustancias desinfectantes que se utilizarán con su ficha técnica correspondiente. 
+       
+          .tarjeta.color-acento-botones.p-4
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img17.svg' alt='AvatarTop')
+            h4.text-center 5. Protocolos de limpieza y desinfección 
+            p.text-center Establecer los procedimientos de limpieza y desinfección para el paso por cada uno de los filtros sanitarios de la unidad productiva. 
+       
+          .tarjeta.color-acento-botones.p-4 
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema8/img18.svg' alt='AvatarTop')
+            h4.text-center 6.Responsables 
+            p.text-center Identificar los responsables de verificar el funcionamiento de los filtros sanitarios y del diligenciamiento de los registros de ingreso. 
 
 </template>
 

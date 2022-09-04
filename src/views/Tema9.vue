@@ -147,45 +147,45 @@
                   h4.mb-0.text-center.text-white Litros
                 th(style="background-color: #a3314f")
                   h4.mb-0.text-center.text-white Referencia
-              tr
+              tr.fila1
                 td.b1 Pollos y gallinas
                 td.b1.text-center 240  
                 td.b2.text-center(rowspan=4) Litros / 100 animales  
-              tr
+              tr.fila1
                 td.b1 Patos
                 td.b1.text-center   370 
-              tr
+              tr.fila1
                 td.b1 Pavos
                 td.b1.text-center 650 
-              tr
+              tr.fila1
                 td.b1 Codornices
                 td.b1.text-center   58 
-              tr
+              tr.fila2
                 td.b1 Cerdas madres
                 td.b1.text-center   18
                 td.b2.text-center(rowspan=9) Litros/ día/ animal
-              tr
+              tr.fila2
                 td.b1 Cerdas reposición
                 td.b1.text-center 18
-              tr
+              tr.fila2
                 td.b1 Cerdos ceba
                 td.b1.text-center 8
-              tr
+              tr.fila2
                 td.b1 Cerdos levante
                 td.b1.text-center 5
-              tr
+              tr.fila2
                 td.b1 Reproductores
                 td.b1.text-center 19
-              tr
+              tr.fila2
                 td.b1 Bovinos 0 – 12 meses
                 td.b1.text-center 20 – 30 
-              tr
+              tr.fila2
                 td.b1 Bovinos 12 – 24 meses
                 td.b1.text-center 45 
-              tr
+              tr.fila2
                 td.b1 Bovinos 24 – 36 
                 td.b1.text-center 80 – 110 
-              tr
+              tr.fila2
                 td.b1 Mayores a 36 meses
                 td.b1.text-center 80 – 115 
           p.mb-0.text-center Nota. Tomada de Ideam (2010).   
@@ -223,7 +223,7 @@
           .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema9/img05.png")
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-right")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema9/img06.png')})`}"
         )

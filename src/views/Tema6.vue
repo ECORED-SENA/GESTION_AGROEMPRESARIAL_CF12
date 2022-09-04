@@ -20,10 +20,11 @@
       #t_6_1.titulo-segundo.color-acento-contenido
         h2 6.1 Productos, concentraciones y preparación
 
-      .row.justify-content-center.mb-5
-        .col-lg-6.col-12
-          p.mb-4 Para realizar las labores de higienización en las unidades pecuarias, actualmente en el mercado existen múltiples alternativas las cuales son empleadas para controlar diversos agentes patógenos. 
-          p.mb-lg-0.mb-3 La clasificación general que recoge buena parte de los productos empleados para la desinfección en unidades productivas pecuarias es la siguiente:
+      .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-lg-6.col-12.d-flex.align-items-center
+          div
+            p.mb-4 Para realizar las labores de higienización en las unidades pecuarias, actualmente en el mercado existen múltiples alternativas las cuales son empleadas para controlar diversos agentes patógenos. 
+            p.mb-lg-0.mb-3 La clasificación general que recoge buena parte de los productos empleados para la desinfección en unidades productivas pecuarias es la siguiente:
         .col-lg-6.col-8
           img.mb-lg-0.mb-3(src="@/assets/curso/tema6/img02.png")
 
@@ -110,7 +111,7 @@
             div(titulo="Aldehídos")
               p.mb-0 Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2%. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.  
     
-    div.px-5.py-3(style="background-color:#e1e4a8")
+    div.px-5.py-3(style="background-color:#e1e4a8" data-aos="fade-right")
       .row.justify-content-center
         .col-lg-2.col-6.d-flex.justify-content-center.align-items-center
           img.mb-lg-0.mb-3(style="width:90px" src="@/assets/curso/tema6/img04.svg")
@@ -182,7 +183,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
         p.titulo <b>Tabla 6.</b> <i>Concentraciones recomendadas para los principales agentes desinfectantes</i>
      
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla-b.color-acento-contenido.mb-5(data-aos="fade-right")
       table
         tr
           th.border-tabla(colspan=5 rowspan=2 style="background-color: #a3314f;")

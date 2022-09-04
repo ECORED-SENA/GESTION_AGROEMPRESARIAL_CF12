@@ -11,7 +11,7 @@
 
     p.mb-4 Se da la bienvenida al estudio del componente <b style='color:#A3314F'>“Aspectos de bioseguridad en la producción pecuaria”</b>. Para comenzar esta experiencia de aprendizaje observe con atención el siguiente video introductorio. 
     p.mb-5 <b style='color:#A3314F'>¡Adelante!</b>
-    figure
+    figure(data-aos="fade-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
    

@@ -37,7 +37,7 @@
     .fondo5.mb-4(data-aos="fade-left") 
       p.mb-5.mt-5 Adicionalmente se recomienda tener un flameador como elemento de desinfección profunda.
       .row.justify-content-center
-        .col-lg-6.col-8
+        .col-lg-6.col-12
           img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img14.png")
         .col-lg-6.col-12
           .cajon.color-acento-contenido.p-4.mb-3(style="background-color:#dfdfdf")
@@ -86,7 +86,7 @@
               p.mb-0 Esta sección generalmente incluye una explicación de los medidores, los interruptores y controles del equipo; funcionamiento de los accesorios y la información básica para el transporte del aparato. 
             div(titulo="Mantenimiento")
               p.mb-0 Se dan recomendaciones, paso a paso, de la forma como se debe hacer le mantenimiento del equipo, la periodicidad, los elementos de protección que se requieren y las herramientas necesarias. Igualmente se expresa en qué casos será necesario acudir al servicio técnico. Las actividades de mantenimiento de los equipos siempre están acompañadas de diagramas que presentan de forma secuencial cómo realizar estas labores.  
-        .col-lg-6.col-8       
+        .col-lg-6.col-12 
           img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img19.png")
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
