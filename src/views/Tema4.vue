@@ -35,7 +35,7 @@
       .col-lg-5.col-8
         img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img02.png")
     
-    div.px-md-5.px-3(style="background-color:#e1e4a8")
+    div.px-md-5.px-3.py-4(style="background-color:#e1e4a8")
       p.mb-0 El manejo y utilización de estos insumos debe ser supervisado siempre, por lo que es necesario establecer protocolos para realizar estas labores e, igualmente, dejar trazabilidad cada vez que se haga uso de ellos. Por otro lado, es importante almacenar estos elementos de forma adecuada, debidamente rotulados y en las condiciones establecidas por el fabricante en la etiqueta y en la ficha técnica. La bodega donde se almacenen estos elementos debe estar bajo llave, debidamente ventilada y construida con materiales que faciliten su aseo y desinfección y además aseguren la estabilidad de los ingredientes activos. 
     Separador 
 
