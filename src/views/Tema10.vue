@@ -340,19 +340,19 @@
 
 
 
-    .tarjeta.color-acento-contenido.p-3.mb-5.sombra(data-aos="fade-left")
-        .row.justify-content-around.align-items-center
-          .col-lg-2.col-6.d-flex.justify-content-center
-            img.mb-lg-0.mb-3(style="width:88px" src="@/assets/curso/tema10/img25.png")
-          .col-10
-            .row.justify-content-center.align-items-center
-              .col-lg-9.col-12.d-flex.align-items-center
-                div
-                  h4.mb-lg-0.mb-3 Amplíe sus saberes sobre bioseguridad, observando con atención el video que aquí se propone.
-              .col-lg-3.col-6.d-flex.justify-content-center
-                a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                  span(style="color:#12263F") Ver video
-                  i.fas.fa-play(style="color:#12263F")
+    //- .tarjeta.color-acento-contenido.p-3.mb-5.sombra(data-aos="fade-left")
+    //-     .row.justify-content-around.align-items-center
+    //-       .col-lg-2.col-6.d-flex.justify-content-center
+    //-         img.mb-lg-0.mb-3(style="width:88px" src="@/assets/curso/tema10/img25.png")
+    //-       .col-10
+    //-         .row.justify-content-center.align-items-center
+    //-           .col-lg-9.col-12.d-flex.align-items-center
+    //-             div
+    //-               h4.mb-lg-0.mb-3 Amplíe sus saberes sobre bioseguridad, observando con atención el video que aquí se propone.
+    //-           .col-lg-3.col-6.d-flex.justify-content-center
+    //-             a.boton.color-acento-botones(style="width:125px" :href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+    //-               span(style="color:#12263F") Ver video
+    //-               i.fas.fa-play(style="color:#12263F")
 </template>
 
 <script>
