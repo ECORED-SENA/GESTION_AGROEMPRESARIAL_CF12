@@ -13,7 +13,7 @@
     p.mb-5 <b style='color:#A3314F'>¡Adelante!</b>
     figure(data-aos="fade-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="1263" height="720" src="https://www.youtube.com/embed/QK8G52RTkSM" title="☣️ Aspectos de bioseguridad en la producción pecuaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
    
 </template>
 
