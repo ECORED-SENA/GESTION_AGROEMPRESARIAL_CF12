@@ -199,7 +199,7 @@
     
     
     .fondo10.p-4.mb-5
-      SlyderA(tipo="b" data-aos="fade-right")
+      SlyderA(tipo="b")
         .row.justify-content-center.px-0.py-3
           .col-lg-11.col-12.px-5.px-lg-0
             .row.fondo11.justify-content-center.py-4
