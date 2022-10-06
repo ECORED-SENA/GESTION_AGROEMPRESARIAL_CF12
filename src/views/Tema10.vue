@@ -57,7 +57,7 @@
                 | Resolución 2646 2008 por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.
               li.mb-0
                 i.fas.fa-check
-                | Resolución 0652 2012 por la cualquier se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se di tan otros disposiciones.
+                | Resolución 0652 2012 por la cual se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se di tan otros disposiciones.
               li.mb-0
                 i.fas.fa-check
                 | Resolución 1409 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
@@ -208,7 +208,7 @@
                   div.d-flex.justify-content-center.align-items-center.mb-4(style="height: 173px")
                     img(style="width:166px" src="@/assets/curso/tema10/img08.png")
                   h4.mb-4.text-center(style="color: #A3314F") Casco con barbuquejo
-                  p.mb-0.text-center Casco de seguridad dieléctrico. tipo i y ii clase e, con ajuste de rachet, tafilete en nylon. 4 apoyos, incluye barbuquejo de 4 apoyos. no ventilado especial para trabajo en alturas. 
+                  p.mb-0.text-center Casco de seguridad dieléctrico. tipo i y ii clase e, con ajuste de <i>rachet</i>, tafilete en <i>nylon</i>. 4 apoyos, incluye barbuquejo de 4 apoyos. no ventilado especial para trabajo en alturas. 
               .col-lg-6.col-12.d-flex.px-lg-5.px-4
                 div.fondo12.w-100.p-4
                   div.d-flex.justify-content-center.align-items-center.mb-3(style="height: 173px")

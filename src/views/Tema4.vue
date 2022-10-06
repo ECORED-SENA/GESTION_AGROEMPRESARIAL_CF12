@@ -181,7 +181,7 @@
             .col-5
               img(src='@/assets/curso/tema4/img15.svg' alt='AvatarTop')
           h4.text-center 7. Control de cambios
-          p.text-center Se registran todos los ajustes que han sufrido el protocolo y los procedimientos. Se deja trazabilidad de estos cambios
+          p.text-center Se registran todos los ajustes que han sufrido el protocolo y los procedimientos. Se deja trazabilidad de estos cambios.
 
 
       p.mb-0 Es posible incluir anexos a los protocolos de limpieza los cuales permitirán al lector obtener información detallada sobre los implementos a emplear, los artículos e insumos. Algunos ejemplos de anexos son las fichas técnicas de los productos de limpieza, el manual de uso de los equipos de protección personal o los manuales de operación de cualquier otro equipo empleado en alguno de los procesos y procedimientos. 

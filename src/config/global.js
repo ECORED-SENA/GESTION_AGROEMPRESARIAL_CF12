@@ -440,13 +440,35 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Karly Julieth Cediel Martínez',
+        cargo: 'Experta temática',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Correctora de estilo',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Edgar Mauricio Cortés García',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -485,34 +507,12 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-      {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura -Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura -Regional Santander',
-      },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

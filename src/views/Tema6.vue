@@ -54,7 +54,7 @@
             td.fb.bb(colspan=2) Líquida 
           tr            
             td.fb.bb.text-center.br <b>2b</b>          
-            td.fb.br.bb(colspan=5) Hipoclorito de calcio Ca(OCl)2.
+            td.fb.br.bb(colspan=5) Hipoclorito de calcio Ca(OCl)<sub>2</sub>.
             td.fb.bb(colspan=2) Sólida 
           tr            
             td.fb.text-center.br <b>2c</b>          
@@ -67,10 +67,10 @@
             td.fg.bb(colspan=2) Pellets 
           tr.fg            
             td.fg.text-center.br(rowspan=2) <b>3b</b>          
-            td.fg.br.bb(colspan=5) Carbonato de sodio Na2CO3.
+            td.fg.br.bb(colspan=5) Carbonato de sodio Na<sub>2</sub>CO<sub>3</sub>.
             td.fg.bb(colspan=2) Polvo
           tr.fg                        
-            td.fg.br(colspan=5) Carbonato de sodio decahidratado Na2CO3.10H2O.
+            td.fg.br(colspan=5) Carbonato de sodio decahidratado Na<sub>2</sub>CO<sub>3</sub>.10H<sub>2</sub>O.
             td.fg(colspan=2) Cristales
           tr.fb
             td.fb.text-center.border-tabla(colspan=2 rowspan=2) <b>Ácidos</b> 
@@ -109,14 +109,14 @@
             div(titulo="Ácidos")
               p.mb-0 Tienen diversidad de aplicaciones con una alta acción viricida, por lo que dependiendo del tipo de elemento y de la concentración pueden ser empleados incluso para la desinfección del personal y la ropa de una manera segura. 
             div(titulo="Aldehídos")
-              p.mb-0 Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2%. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.  
+              p.mb-0 Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2 %. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.  
     
     div.px-5.py-3(style="background-color:#e1e4a8" data-aos="fade-right")
       .row.justify-content-center
         .col-lg-2.col-6.d-flex.justify-content-center.align-items-center
           img.mb-lg-0.mb-3(style="width:90px" src="@/assets/curso/tema6/img04.svg")
         .col-lg-10.col-12.d-flex.justify-content-center.align-items-center
-          p.mb-0 Es importante recordar que la utilización de estos elementos requiere de la utilización de equipos de protección personal por lo que es importante consultar las fichas técnicas de seguridad. Otros productos empleados en labores de limpieza y desinfección en unidades pecuarias son la cal (carbonato de calcio CaCO3) y los productos a base de amonio cuaternario. 
+          p.mb-0 Es importante recordar que la utilización de estos elementos requiere de la utilización de equipos de protección personal por lo que es importante consultar las fichas técnicas de seguridad. Otros productos empleados en labores de limpieza y desinfección en unidades pecuarias son la cal (carbonato de calcio CaCO<sub>3</sub>) y los productos a base de amonio cuaternario. 
 
     .fondo2
       .row.justify-content-center.mb-5.mt-5(data-aos="fade-right")
@@ -208,7 +208,7 @@
           td.br.text-center(colspan=2) 2 – 3 % de cloro disponible
           td.text-center(colspan=2) 10 – 30
         tr
-          td.br(colspan=5) Hipoclorito de calcio Ca(OCl)2
+          td.br(colspan=5) Hipoclorito de calcio Ca(OCl)<sub>2</sub>
           td.br.text-center(colspan=2) 30 g/ litro
           td.br.text-center(colspan=2) -
           td.text-center(colspan=2) 10 – 30
@@ -223,12 +223,12 @@
           td.br.text-center(colspan=2) 2 % peso/volumen
           td.text-center(colspan=2) 10
         tr
-          td.br(colspan=5) Carbonato de sodio Na2CO3
+          td.br(colspan=5) Carbonato de sodio Na<sub>2</sub>CO<sub>3</sub>
           td.br.text-center(colspan=2) 40 g/ litro
           td.br.text-center(colspan=2) 4 % peso/volumen
           td.text-center(colspan=2) 10
         tr
-          td.br(colspan=5) Carbonato de sodio decahidratado Na2CO3.10H2O
+          td.br(colspan=5) Carbonato de sodio decahidratado Na<sub>2</sub>CO<sub>3</sub>.10H<sub>2</sub>O
           td.br.text-center(colspan=2) 100 g/ litro
           td.br.text-center(colspan=2) 10 % peso/volumen
           td.text-center(colspan=2) 30

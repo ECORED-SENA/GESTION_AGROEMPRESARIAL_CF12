@@ -27,12 +27,14 @@
         SlyderB.mb-0(:datos="datosSlyder1")
       p.mb-5 Para el lavado general se recomiendan estos elementos que pueden ser análogos o un poco más industrializados llegando inclusive a tener herramientas programables y con alta tecnología:
 
-    div.fondo3.mb-5.py-5.px-4(data-aos="fade-left")
-      SlyderB.mb-0(:datos="datosSlyder2")
+    .fondo1
+      div.fondo3.mb-5.py-5.px-4(data-aos="fade-left")
+        SlyderB.mb-0(:datos="datosSlyder2")
     p.mb-5 Por el lado de la desinfección que es tan importante en los procesos de cuidado pecuario es necesario tener los siguientes elementos de apoyo a la hora de aplicar algunos de los químicos desinfectantes, se debe tener cuidado con su control y manipulación por parte de los humanos y animales:
 
-    div.fondo4.py-5.px-4(data-aos="fade-right")
-      SlyderB.mb-0(:datos="datosSlyder3")
+    .fondo1
+      div.fondo4.py-5.px-4(data-aos="fade-right")
+        SlyderB.mb-0(:datos="datosSlyder3")
 
     .fondo5.mb-4(data-aos="fade-left") 
       p.mb-5.mt-5 Adicionalmente se recomienda tener un flameador como elemento de desinfección profunda.
@@ -74,7 +76,7 @@
       p.mb-5 <b>Componentes del equipo</b>: se presenta un diagrama en cual se describen las partes del equipo y su ubicación, lo cual es absolutamente necesario para proceder con la operación del aparato.  
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        p.titulo <b>Figura 6.</b> <i>Esquema de componentes de un equipo termo-nebulizador</i>
+        p.titulo <b>Figura 6.</b> <i>Esquema de componentes de un equipo termonebulizador</i>
       .row.justify-content-center.mb-5
         .col-lg-10.col-12
           img(src="@/assets/curso/tema5/img18.png")
@@ -85,7 +87,7 @@
             div(titulo="Operación")
               p.mb-0 Esta sección generalmente incluye una explicación de los medidores, los interruptores y controles del equipo; funcionamiento de los accesorios y la información básica para el transporte del aparato. 
             div(titulo="Mantenimiento")
-              p.mb-0 Se dan recomendaciones, paso a paso, de la forma como se debe hacer le mantenimiento del equipo, la periodicidad, los elementos de protección que se requieren y las herramientas necesarias. Igualmente se expresa en qué casos será necesario acudir al servicio técnico. Las actividades de mantenimiento de los equipos siempre están acompañadas de diagramas que presentan de forma secuencial cómo realizar estas labores.  
+              p.mb-0 Se dan recomendaciones, paso a paso, de la forma como se debe hacer el mantenimiento del equipo, la periodicidad, los elementos de protección que se requieren y las herramientas necesarias. Igualmente se expresa en qué casos será necesario acudir al servicio técnico. Las actividades de mantenimiento de los equipos siempre están acompañadas de diagramas que presentan de forma secuencial cómo realizar estas labores.  
         .col-lg-6.col-12 
           img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img19.png")
 
@@ -149,7 +151,7 @@ export default {
       {
         titulo: 'Cepillo',
         texto:
-          'Para restregar y remover los residuos que estén adheridos a las superficies.',
+          'Para restregar las superficies contaminadas con diversos tipos de sustancias.',
         imagen: require('@/assets/curso/tema5/img08.png'),
       },
     ],

@@ -27,7 +27,7 @@
               | Contar con vestier, sanitario y lavamanos con capacidad para el número trabajadores.
             li.mb-0
               i.fas.fa-check
-              | Tener, en lo posible, un área de ingreso (área sucia), un área intermedia (ducha) y un área limpia donde se encuentre la dotación usará el operario dentro de la explotación productiva. 
+              | Tener, en lo posible, un área de ingreso (área sucia), un área intermedia (ducha) y un área limpia donde se encuentre la dotación que usará el operario dentro de la explotación productiva. 
 
       Separador
     

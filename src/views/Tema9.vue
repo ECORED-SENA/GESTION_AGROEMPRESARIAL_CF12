@@ -70,7 +70,7 @@
                 td.text-center.br Carbono orgánico total
                 td.text-center 5,0
               tr
-                td.text-center.br image.png
+                td.text-center.br Nitritos
                 td.text-center 0,1
               tr
                 td.text-center.br Nitratos
@@ -175,7 +175,7 @@
                 td.b1.text-center 5
               tr.fila2
                 td.b1 Reproductores
-                td.b1.text-center 19
+                td.b1.text-center 16
               tr.fila2
                 td.b1 Bovinos 0 – 12 meses
                 td.b1.text-center 20 – 30 

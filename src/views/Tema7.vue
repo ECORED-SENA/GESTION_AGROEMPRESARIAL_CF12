@@ -19,6 +19,7 @@
         h2 7.1 Medidas de prevención
 
     .fondo2
+      p.mb-5 En todas las explotaciones pecuarias es posible que se encuentren problemas de plagas, debido a la misma naturaleza de la actividad productiva, sin embargo, es posible mantener bajos los niveles de infestación siguiendo algunas recomendaciones básicas:
       img.mb-0(src="@/assets/curso/tema7/img01.svg")
 
     Separador
