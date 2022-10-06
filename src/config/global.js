@@ -467,8 +467,26 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Yerson Fabian Zarate Saavedra',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Edgar Mauricio Cortés García',
         cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrea Paola Botello de la Rosa',
+        cargo: 'Validación de Maquetación',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Emilsen Alfonso Bautista',
+        cargo: 'Actividades didácticas',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
